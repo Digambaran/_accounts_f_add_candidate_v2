@@ -32,6 +32,8 @@ const addCandidate = async (req, res) => {
       console.log(error);
     }
 
+    console.log("")
+    
     const DB_FILE = path.resolve("../localdb.json");
     const localDB = getDB(DB_FILE);
     const id = new Date().getTime();
