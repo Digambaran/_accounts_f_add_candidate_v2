@@ -4,8 +4,6 @@ import { getDB, getBody, sendResponse } from "./utils.js";
 import { env, shield, internals } from "node-blox-sdk";
 
 env.init();
-console.log(process.env)
-console.log(process.env)
 // Initializes sdk with credentials
 internals.initialize({
   clientId: process.env.CLIENT_ID,
