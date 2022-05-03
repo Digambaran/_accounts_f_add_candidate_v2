@@ -1,0 +1,1 @@
+{"name":"f_add_candidate","type":"function","source":{"https":"https://github.com/candidate-app/_ca_f_add_candidate","ssh":"git@github.com:candidate-app/_ca_f_add_candidate.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
