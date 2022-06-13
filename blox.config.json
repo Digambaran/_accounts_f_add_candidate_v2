@@ -1,1 +1,1 @@
-{"name":"f_add_candidate","type":"function","source":{"https":"https://github.com/candidate-app/_ca_f_add_candidate.git","ssh":"git@github.com:candidate-app/_ca_f_add_candidate.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
+{"name":"f_add_candidate_v2","type":"function","source":{"https":"https://github.com/Digambaran/_accounts_f_add_candidate_v2","ssh":"git@github.com:Digambaran/_accounts_f_add_candidate_v2.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
